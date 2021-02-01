@@ -16,7 +16,7 @@ namespace FirstMVCAppPractice.Controllers
 
         public string MyMethod()
         {
-            return "Hello World";
+            return "Hello World from BD";
         }
     }
 }
